@@ -25,11 +25,11 @@ cd todoList
 ```
 # Install dependencies
 ```
-npm install
+npm install --global expo-cli
 ```
 # Start the app
 ```
-npm start
+npx expo start
 ```
 This will launch Expo, allowing you to run the app on an emulator, a real device, or in a browser.
 
