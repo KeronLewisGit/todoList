@@ -1,6 +1,7 @@
  # To-Do List App
 
 This is a simple **To-Do List** application built with **React Native** using **Expo**. It allows users to add and remove tasks in a minimal, user-friendly interface.
+
 ![To-Do List App](image.png)
 ## Features
 
