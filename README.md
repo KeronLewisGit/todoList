@@ -17,11 +17,12 @@ This is a simple **To-Do List** application built with **React Native** using **
 - Install [Node.js](https://nodejs.org/) and [Expo CLI](https://docs.expo.dev/get-started/installation/).
 
 ### Steps to Run
-```bash
+
 # Clone this repository
+[code]
 git clone https://github.com/KeronLewisGit/todoList.git
 cd todoList
-
+[/code]
 # Install dependencies
 npm install
 
