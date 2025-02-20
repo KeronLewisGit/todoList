@@ -32,7 +32,7 @@ npm start
 This will launch Expo, allowing you to run the app on an emulator, a real device, or in a browser.
 
 ## Project Structure
-```
+
 /todoList
 ├── components/       # Custom React components (e.g., Task.js)
 ├── assets/           # Static assets (e.g., images, icons)
@@ -41,7 +41,7 @@ This will launch Expo, allowing you to run the app on an emulator, a real device
 ├── package.json      # Dependencies and scripts
 ├── .gitignore        # Ignored files in version control
 └── app.json          # Expo configuration
-```
+
 
 ## Dependencies
 - `react-native`: 0.76.7
