@@ -1,5 +1,4 @@
-```markdown
-# To-Do List App
+ # To-Do List App
 
 This is a simple **To-Do List** application built with **React Native** using **Expo**. It allows users to add and remove tasks in a minimal, user-friendly interface.
 
@@ -60,4 +59,3 @@ Feel free to fork the repository and submit pull requests with improvements!
 
 ## License
 This project is open-source and free to use.
-```
