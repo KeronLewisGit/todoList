@@ -19,10 +19,10 @@ This is a simple **To-Do List** application built with **React Native** using **
 ### Steps to Run
 
 # Clone this repository
-[code]
+```
 git clone https://github.com/KeronLewisGit/todoList.git
 cd todoList
-[/code]
+```
 # Install dependencies
 npm install
 
